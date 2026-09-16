@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文深度阅读"
+  short_description: "用解析树筛选、精读并批判性分析计算机学科论文"
+  default_prompt: "请用 $paper-reading-research 阅读这篇计算机论文，构建论文解析树，并根据价值决定读到第几遍。"
